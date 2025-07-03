@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Gláu ☕💻</h1>
 
 <p align="center">
-  Cientista de dados em formação | Amante de tecnologia, livros e animais 🐶✨
+  Arquiteta de Software em formação | Amante de tecnologia, livros e animais 🐶✨
 </p>
 
 <p align="center">
@@ -49,12 +49,11 @@
 ### 🧬 Sobre mim
 
 - 🎓 Engenheira de Computação
-- 📚 Mestranda em Ciencia da Computação e Pós-graduanda em Análise de Dados
+- 📚 Mestranda em Ciencia da Computação, Pós-graduação em Análise de Dados
 - 📊 Estudando Python, Data Science e Machine Learning
 - 🌱 Interesse em aprendizado de máquina e bioinformática
 - 💡 Explorando a matemática por trás do mundo
 - 🧠 Curiosa por natureza, sempre aprendendo algo novo
-- 🟢 Open to Work | Dev Web • Dados • Machine Learning
 
 ---
 
