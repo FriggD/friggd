@@ -49,7 +49,8 @@
 ### 🧬 Sobre mim
 
 - 🎓 Engenheira de Computação
-- 📚 Mestranda em Ciencia da Computação, Pós-graduação em Análise de Dados
+- 💻 Desenvolvedora Fullstack | C# (.NET) • Angular • APIs • Sistemas Web
+- 📚 Pós-graduação em Análise de Dados
 - 📊 Estudando Python, Data Science e Machine Learning
 - 🌱 Interesse em aprendizado de máquina e bioinformática
 - 💡 Explorando a matemática por trás do mundo
