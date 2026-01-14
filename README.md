@@ -51,7 +51,7 @@
 - 🎓 Engenheira de Computação
 - 💻 Desenvolvedora Fullstack | C# (.NET) • Angular • APIs • Sistemas Web
 - 📚 Pós-graduação em Análise de Dados
-- 📊 Estudando Python, Data Science e Machine Learning
+- 📊 Estudando Python, Data Science e Machine Learning por diversão
 - 🌱 Interesse em aprendizado de máquina e bioinformática
 - 💡 Explorando a matemática por trás do mundo
 - 🧠 Curiosa por natureza, sempre aprendendo algo novo
@@ -67,14 +67,6 @@
 - 🔎 **Análise Genética com Machine Learning**  
   _Predição de variantes genéticas e imputação de dados ausentes com redes neurais profundas_  
   [🔗 Veja no GitHub](https://github.com/FriggD/tcc-imputacao)
-
-- 📦 **Plataforma de E-commerce para Produtos Elétricos**  
-  _Backend escalável e customizado com foco em performance_  
-  [🔗 Em desenvolvimento](https://v0-electronics-ecommerce-site.vercel.app/)
-
-- 🧪 **Simulação de calculos e algoritmos de machine learning**  
-  _Colocando em prática o que é visto em aula_  
-  [🔗 Repositórios a caminho...]
 
 ---
 
